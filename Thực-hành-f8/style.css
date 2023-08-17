@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*
+vị trí 
+kích thước 
+màu sắc 
+kiểu dáng  */
+#main{
+
+
+}
+
+#nav{
+
+}
+#nav >li{
+    display: inline-block;
+}
+#header{
+  height: 46px;
+  background-color: black;
+} 
+
+
+#nav>li>a{
+    color:white;
+}
+#nav li{
+    position: relative;
+}
+
+#nav .subnav{
+    position: absolute;
+    
+}
+#sliders{
+
+}
+
+#content{
+
+}
+
+#footer{
+
+}
